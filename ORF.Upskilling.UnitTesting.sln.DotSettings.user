@@ -1,0 +1,9 @@
+﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=24a6f27c_002Dc16d_002D41bd_002D990e_002Dd4d8bfb049da/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="All tests from &amp;lt;ORF.Upskilling.TimeBookings.Tests_xUnit&amp;gt;" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;
+  &lt;Or&gt;
+    &lt;Project Location="/Users/paulroho/Repos/ORF.Upskilling.UnitTesting/ORF.Upskilling.TimeBookings.Tests_NUnit" Presentation="&amp;lt;ORF.Upskilling.TimeBookings.Tests_NUnit&amp;gt;" /&gt;
+    &lt;TestAncestor&gt;
+      &lt;TestId&gt;xUnit::A5D64EBD-97AB-4C67-9BDC-481DD650288A::net8.0::ORF.Upskilling.TimeBookings.Tests_xUnit.UnitTest1&lt;/TestId&gt;
+    &lt;/TestAncestor&gt;
+  &lt;/Or&gt;
+&lt;/SessionState&gt;</s:String></wpf:ResourceDictionary>
