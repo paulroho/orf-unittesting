@@ -2,9 +2,7 @@
 Microsoft Visual Studio Solution File, Format Version 12.00
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ORF.Upskilling.TimeBookings", "ORF.Upskilling.TimeBookings\ORF.Upskilling.TimeBookings.csproj", "{4A2C3CE9-5A50-4937-8A3A-FBAFF870C416}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ORF.Upskilling.TimeBookings.Tests_NUnit", "ORF.Upskilling.TimeBookings.Tests_NUnit\ORF.Upskilling.TimeBookings.Tests_NUnit.csproj", "{77361A6F-6658-4BDE-9E92-C291CD1CF561}"
-EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ORF.Upskilling.TimeBookings.Tests_xUnit", "ORF.Upskilling.TimeBookings.Tests_xUnit\ORF.Upskilling.TimeBookings.Tests_xUnit.csproj", "{A5D64EBD-97AB-4C67-9BDC-481DD650288A}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ORF.Upskilling.TimeBookings.Tests", "ORF.Upskilling.TimeBookings.Tests\ORF.Upskilling.TimeBookings.Tests.csproj", "{A5D64EBD-97AB-4C67-9BDC-481DD650288A}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -16,10 +14,6 @@ Global
 		{4A2C3CE9-5A50-4937-8A3A-FBAFF870C416}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{4A2C3CE9-5A50-4937-8A3A-FBAFF870C416}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{4A2C3CE9-5A50-4937-8A3A-FBAFF870C416}.Release|Any CPU.Build.0 = Release|Any CPU
-		{77361A6F-6658-4BDE-9E92-C291CD1CF561}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{77361A6F-6658-4BDE-9E92-C291CD1CF561}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{77361A6F-6658-4BDE-9E92-C291CD1CF561}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{77361A6F-6658-4BDE-9E92-C291CD1CF561}.Release|Any CPU.Build.0 = Release|Any CPU
 		{A5D64EBD-97AB-4C67-9BDC-481DD650288A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{A5D64EBD-97AB-4C67-9BDC-481DD650288A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A5D64EBD-97AB-4C67-9BDC-481DD650288A}.Release|Any CPU.ActiveCfg = Release|Any CPU
